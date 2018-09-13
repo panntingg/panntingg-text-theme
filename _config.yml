@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Ting's Second Personal Blog
 description: > # this means to ignore newlines until "Language & timezone"
-  Welcome! This is my second pernal blog.
+  Welcome! This is my second personal blog.
 
 
 ## => Language and Timezone
